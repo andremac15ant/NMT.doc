@@ -95,6 +95,6 @@ A versão mais recente estará sempre disponível nesta página.
 
 Desenvolvedor: André Machado Antonio
 
-GitHub: [URL DO REPOSITÓRIO]
+GitHub: https://github.com/andremac15ant/NMT.doc/tree/main
 
 E-mail: andremac.17ant@gmail.com
